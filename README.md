@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan Boddy
 - 👀 I’m interested in Svelte, JavaScript, Front End Development, and all things web dev.
-- 🌱 I’m currently learning Three.js
+- 🌱 I’m currently learning Game Dev in Unreal Engine
 - 📫 You can find me at ryanboddy.net or on [LinkedIn](https://www.linkedin.com/in/ryanboddy/)
 
 <!---
