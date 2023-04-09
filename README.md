@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ryan Boddy
 - 👀 I’m interested in Svelte, JavaScript, Front End Development, and all things web dev.
 - 🌱 I’m currently learning Game Dev in Unreal Engine
-- 📫 You can find me at ryanboddy.net or on [LinkedIn](https://www.linkedin.com/in/ryanboddy/)
+- 📫 You can find me at ryanboddy.net, [LinkedIn](https://www.linkedin.com/in/ryanboddy/), or [Twitter](https://twitter.com/imryanboddy)
 
 <!---
 rboddy/rboddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
