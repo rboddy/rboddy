@@ -2,7 +2,7 @@
 - 👀 I’m interested in Svelte, JavaScript, Front End Development, and all things web dev.
 - 🌱 I’m currently learning Game Dev in ~~Unreal Engine~~ Godot 4!
 - 🚀 Working on a new venture!
-- 📫 You can find me at ryanboddy.net, [LinkedIn](https://www.linkedin.com/in/ryanboddy/), or [Twitter](https://twitter.com/imryanboddy)
+- 📫 You can find me at ryanboddy.net, [LinkedIn](https://www.linkedin.com/in/ryanboddy/)
 
 <!---
 rboddy/rboddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
