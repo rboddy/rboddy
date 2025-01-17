@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan Boddy
-- 👀 I’m interested in Svelte, JavaScript, Full Stack Development, and all things web dev.
-- 🌱 I’m currently learning Game Dev in ~~Unreal Engine~~ Godot 4!
+- 👀 I’m a web developer that is primarily focused on the frontend, but that doesn't stop me from having some fun on the backend.
+- 🌱 I’m currently learning Game Dev in Unreal Engine, though I usually build games in Godot 4!
 - 📫 You can find me at ryanboddy.net, [LinkedIn](https://www.linkedin.com/in/ryanboddy/)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rboddy"/>
